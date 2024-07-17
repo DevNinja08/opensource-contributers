@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "amitpatil-ai",
+      "name": "amitpatil-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175777250?v=4",
+      "profile": "https://github.com/amitpatil-ai",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "opensource-contributers",
+  "projectOwner": "DevNinja08"
+}
