@@ -14,7 +14,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/amitpatil-ai"><img src="https://avatars.githubusercontent.com/u/175777250?v=4?s=100" width="100px;" alt="amitpatil-ai"/><br /><sub><b>amitpatil-ai</b></sub></a><br /><a href="https://github.com/DevNinja08/opensource-contributers/commits?author=amitpatil-ai" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/amitpatil-ai"><img src="https://avatars.githubusercontent.com/u/175777250?v=4?s=100" width="100px;" alt="amitpatil-ai"/><br /><sub><b>amitpatil-ai</b></sub></a><br /><a href="https://github.com/DevNinja08/opensource-contributers/commits?author=amitpatil-ai" title="Documentation">📖</a> <a href="https://github.com/DevNinja08/opensource-contributers/commits?author=amitpatil-ai" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
